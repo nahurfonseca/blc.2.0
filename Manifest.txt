@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/blc.2.0
+lib/blc.2.0.rb
+test/test_blc.2.0.rb
